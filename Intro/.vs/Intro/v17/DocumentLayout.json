@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hilal\\source\\repos\\Intro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|c:\\users\\hilal\\source\\repos\\intro\\intro\\dataaccess\\concretes\\dappercoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|solutionrelative:intro\\dataaccess\\concretes\\dappercoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|c:\\users\\hilal\\source\\repos\\intro\\intro\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|solutionrelative:intro\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|c:\\users\\hilal\\source\\repos\\intro\\intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|solutionrelative:intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|c:\\users\\hilal\\source\\repos\\intro\\intro\\dataaccess\\concretes\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|solutionrelative:intro\\dataaccess\\concretes\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|c:\\users\\hilal\\source\\repos\\intro\\intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|solutionrelative:intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|c:\\users\\hilal\\source\\repos\\intro\\intro\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|solutionrelative:intro\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|c:\\users\\hilal\\source\\repos\\intro\\intro\\entities\\corporatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|solutionrelative:intro\\entities\\corporatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|c:\\users\\hilal\\source\\repos\\intro\\intro\\entities\\individualcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|solutionrelative:intro\\entities\\individualcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|c:\\users\\hilal\\source\\repos\\intro\\intro\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8152CA86-4E2E-421F-B44B-2FBDD9954B3C}|Intro\\Intro.csproj|solutionrelative:intro\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DapperCourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\DataAccess\\Concretes\\DapperCourseDal.cs",
+              "RelativeDocumentMoniker": "Intro\\DataAccess\\Concretes\\DapperCourseDal.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\DataAccess\\Concretes\\DapperCourseDal.cs",
+              "RelativeToolTip": "Intro\\DataAccess\\Concretes\\DapperCourseDal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:12:44.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeDocumentMoniker": "Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeToolTip": "Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:55:59.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfCourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\DataAccess\\Concretes\\EfCourseDal.cs",
+              "RelativeDocumentMoniker": "Intro\\DataAccess\\Concretes\\EfCourseDal.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\DataAccess\\Concretes\\EfCourseDal.cs",
+              "RelativeToolTip": "Intro\\DataAccess\\Concretes\\EfCourseDal.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:50:15.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeDocumentMoniker": "Intro\\DataAccess\\Concretes\\CourseDal.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeToolTip": "Intro\\DataAccess\\Concretes\\CourseDal.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:13:32.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorporateCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\Entities\\CorporateCustomer.cs",
+              "RelativeDocumentMoniker": "Intro\\Entities\\CorporateCustomer.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\Entities\\CorporateCustomer.cs",
+              "RelativeToolTip": "Intro\\Entities\\CorporateCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:02:24.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\Program.cs",
+              "RelativeDocumentMoniker": "Intro\\Program.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\Program.cs",
+              "RelativeToolTip": "Intro\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwEgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T19:30:59.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndividualCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\Entities\\IndividualCustomer.cs",
+              "RelativeDocumentMoniker": "Intro\\Entities\\IndividualCustomer.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\Entities\\IndividualCustomer.cs",
+              "RelativeToolTip": "Intro\\Entities\\IndividualCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T22:44:54.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\Business\\CourseManager.cs",
+              "RelativeDocumentMoniker": "Intro\\Business\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\Business\\CourseManager.cs",
+              "RelativeToolTip": "Intro\\Business\\CourseManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:57:19.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Intro\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\Intro\\Intro\\Entities\\Course.cs",
+              "RelativeToolTip": "Intro\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:28:33.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
